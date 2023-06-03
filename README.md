@@ -1,2 +1,1 @@
-# lambda-cloud
-Trabalho da matéria de núvem, executando uma função lambda
+# Lambda - consumindo uma API da loja do jogo Fortnite
